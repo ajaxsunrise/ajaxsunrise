@@ -1,0 +1,15 @@
+{
+    "name": "aixomesh early adopter collection",
+    "description": "This collection is aixomesh early adopter nft",
+    "image": "https://raw.githubusercontent.com/ajaxsunrise/ajaxsunrise/main/axiomesh.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity", 
+        "value": "42"
+      },
+      {
+        "trait_type": "Element", 
+        "value": "Fire"
+      }
+    ]
+  }
