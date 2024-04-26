@@ -1,7 +1,8 @@
 {
     "name": "aixomesh early adopter collection",
     "description": "This collection is aixomesh early adopter nft",
-    "image": "https://raw.githubusercontent.com/ajaxsunrise/ajaxsunrise/main/nft_video_small.mp4",
+    "image": "https://raw.githubusercontent.com/ajaxsunrise/ajaxsunrise/main/axiomesh.png",
+    "video": "https://raw.githubusercontent.com/ajaxsunrise/ajaxsunrise/main/nft_video_small.mp4",
     "attributes": [
       {
         "trait_type": "Rarity", 
